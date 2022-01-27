@@ -1,5 +1,5 @@
 # Semi-Project
-비트캠프 206기 세미프로젝트 3조<br/>
+세미프로젝트 3조<br/>
 2021/07/19 ~ 2021/08/03<br/>
 팀원 4명<br/>
 
@@ -13,4 +13,4 @@
 - coolSMS (문자전송)
 
 현재는 오라클 DB 삭제 및 구글 API 만료로 인해 실행 불가.<br/>
-구현 화면 : http://naver.me/5lZLjEtw
+구현 화면 : https://drive.google.com/file/d/1sXCf1FeBegRWM2flWGuF8zG1wQwGN9a9/view?usp=sharing
